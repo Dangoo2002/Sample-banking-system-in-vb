@@ -1,2 +1,2 @@
 # sample-banking-system-in-vb
-This project is a sample anking system in visual basic
+This project is a sample banking system in visual basic
